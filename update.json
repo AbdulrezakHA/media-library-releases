@@ -1,10 +1,46 @@
 ﻿{
-    "version":  "1.0.1",
+    "version":  "1.0.3",
     "type":  "hot",
-    "message":  "Version 1.0.1 available!",
+    "message":  "Version 1.0.3 available!",
     "notes":  [
-                  "nothing, testing for 3"
+                  "Browse video tutorials for every experience level to start creating something amazing today.",
+                  "Get free templates and assets to kickstart your project."
               ],
     "zipUrl":  "https://github.com/AbdulrezakHA/media-library-releases/releases/latest/download/MediaLibrary.zip",
-    "zxpUrl":  "https://github.com/AbdulrezakHA/media-library-releases/releases/latest/download/MediaLibrary.zxp"
+    "zxpUrl":  "https://github.com/AbdulrezakHA/media-library-releases/releases/latest/download/MediaLibrary.zxp",
+    "whatsNew":  {
+                     "title":  "What\u0027s New in v1.0.3",
+                     "pages":  [
+                                   {
+                                       "title":  "test",
+                                       "description":  "Browse video tutorials for every experience level to start creating something amazing today.",
+                                       "media":  "whatsnew/1.0.3/2026-100.jpg",
+                                       "mediaType":  "image",
+                                       "buttons":  [
+                                                       {
+                                                           "label":  "Learn more",
+                                                           "url":  "https://example.com",
+                                                           "primary":  true
+                                                       },
+                                                       {
+                                                           "label":  "View tutorials",
+                                                           "url":  "https://example.com"
+                                                       }
+                                                   ]
+                                   },
+                                   {
+                                       "title":  "Free assets",
+                                       "description":  "Get free templates and assets to kickstart your project.",
+                                       "media":  null,
+                                       "mediaType":  "image",
+                                       "buttons":  [
+                                                       {
+                                                           "label":  "Browse assets",
+                                                           "url":  "https://example.com",
+                                                           "primary":  true
+                                                       }
+                                                   ]
+                                   }
+                               ]
+                 }
 }
