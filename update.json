@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.0.9",
+    "version":  "1.0.10",
     "type":  "hot",
-    "message":  "Version 1.0.9 available!",
+    "message":  "Version 1.0.10 available!",
     "notes":  [
                   "Browse video tutorials for every experience level to start creating something amazing today.",
                   "Get free templates and assets to kickstart your project."
@@ -9,7 +9,7 @@
     "zipUrl":  "https://github.com/AbdulrezakHA/media-library-releases/releases/latest/download/MediaLibrary.zip",
     "zxpUrl":  "https://github.com/AbdulrezakHA/media-library-releases/releases/latest/download/MediaLibrary.zxp",
     "whatsNew":  {
-                     "title":  "What\u0027s New in v1.0.3",
+                     "title":  "What\u0027s New in v1.0.10",
                      "pages":  [
                                    {
                                        "title":  "test 5",
