@@ -1,37 +1,43 @@
 {
-  "version": "2.0.0",
-  "type": "major",
-  "message": "Media Library 2.0.0 - Expanded File Support!",
-  "notes": "Added support for 30+ file types: Projects (AEP/PRPROJ/MOGRT), Fonts, 3D models, LUTs, Scripts, Vectors, Data files, and Presets. Each type gets its own bin in the project panel with color-coded labels.",
-  "whatsNew": {
-    "title": "What's New in v2.0.0",
-    "pages": [
-      {
-        "title": "30+ File Types",
-        "description": "New support for Projects (AEP, PRPROJ, MOGRT), Fonts (TTF, OTF, WOFF), 3D (C4D, OBJ, FBX), LUTs (CUBE, 3DL), Scripts (JSX), Vectors (AI, EPS), Data (JSON, CSV, XML), and Presets (EPR).",
-        "media": "",
-        "mediaType": "image",
-        "buttons": []
-      },
-      {
-        "title": "Organized Bins",
-        "description": "Each new file type gets its own color-coded bin in the project panel: Projects, Fonts, 3D, LUTs, Scripts, Vectors, Data, Presets. Auto-organize sorts them automatically.",
-        "media": "",
-        "mediaType": "image",
-        "buttons": []
-      },
-      {
-        "title": "Filter Buttons",
-        "description": "New filter buttons in the sidebar to quickly show/hide Projects, Fonts, Scripts, LUTs, 3D, and other types.",
-        "media": "",
-        "mediaType": "image",
-        "buttons": []
-      }
-    ]
-  },
-  "about": {
-    "portfolioUrl": "https://abdulrezak.com",
-    "welcomeText": "Media Library 2.0 - Now with expanded file support!"
-  },
-  "zipUrl": "https://github.com/AbdulrezakHA/media-library-releases/releases/download/v2.0.0/MediaLibrary.zip"
+    "version":  "2.0.1",
+    "type":  "major",
+    "message":  "Media Library 2.0.1 - Bug Fixes",
+    "notes":  "Added missing filter buttons for Vectors (AI/EPS), Data (TXT/JSON/CSV), and Presets. Added manual refresh button.",
+    "whatsNew":  {
+                     "title":  "What\u0027s New in v2.0.0",
+                     "pages":  [
+                                   {
+                                       "title":  "30+ File Types",
+                                       "description":  "New support for Projects (AEP, PRPROJ, MOGRT), Fonts (TTF, OTF, WOFF), 3D (C4D, OBJ, FBX), LUTs (CUBE, 3DL), Scripts (JSX), Vectors (AI, EPS), Data (JSON, CSV, XML), and Presets (EPR).",
+                                       "media":  "",
+                                       "mediaType":  "image",
+                                       "buttons":  [
+
+                                                   ]
+                                   },
+                                   {
+                                       "title":  "Organized Bins",
+                                       "description":  "Each new file type gets its own color-coded bin in the project panel: Projects, Fonts, 3D, LUTs, Scripts, Vectors, Data, Presets. Auto-organize sorts them automatically.",
+                                       "media":  "",
+                                       "mediaType":  "image",
+                                       "buttons":  [
+
+                                                   ]
+                                   },
+                                   {
+                                       "title":  "Filter Buttons",
+                                       "description":  "New filter buttons in the sidebar to quickly show/hide Projects, Fonts, Scripts, LUTs, 3D, and other types.",
+                                       "media":  "",
+                                       "mediaType":  "image",
+                                       "buttons":  [
+
+                                                   ]
+                                   }
+                               ]
+                 },
+    "about":  {
+                  "portfolioUrl":  "https://abdulrezak.com",
+                  "welcomeText":  "Media Library 2.0 - Now with expanded file support!"
+              },
+    "zipUrl":  "https://github.com/AbdulrezakHA/media-library-releases/releases/download/v2.0.1/MediaLibrary.zip"
 }
