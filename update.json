@@ -1,43 +1,25 @@
 {
-    "version":  "2.0.1",
-    "type":  "major",
-    "message":  "Media Library 2.0.1 - Bug Fixes",
-    "notes":  "Added missing filter buttons for Vectors (AI/EPS), Data (TXT/JSON/CSV), and Presets. Added manual refresh button.",
+    "version":  "2.0.2",
     "whatsNew":  {
-                     "title":  "What\u0027s New in v2.0.0",
                      "pages":  [
                                    {
-                                       "title":  "30+ File Types",
-                                       "description":  "New support for Projects (AEP, PRPROJ, MOGRT), Fonts (TTF, OTF, WOFF), 3D (C4D, OBJ, FBX), LUTs (CUBE, 3DL), Scripts (JSX), Vectors (AI, EPS), Data (JSON, CSV, XML), and Presets (EPR).",
                                        "media":  "",
-                                       "mediaType":  "image",
-                                       "buttons":  [
-
-                                                   ]
-                                   },
-                                   {
-                                       "title":  "Organized Bins",
-                                       "description":  "Each new file type gets its own color-coded bin in the project panel: Projects, Fonts, 3D, LUTs, Scripts, Vectors, Data, Presets. Auto-organize sorts them automatically.",
-                                       "media":  "",
-                                       "mediaType":  "image",
-                                       "buttons":  [
-
-                                                   ]
-                                   },
-                                   {
-                                       "title":  "Filter Buttons",
-                                       "description":  "New filter buttons in the sidebar to quickly show/hide Projects, Fonts, Scripts, LUTs, 3D, and other types.",
-                                       "media":  "",
+                                       "title":  "Bug Fixes",
+                                       "description":  "Update banner no longer appears when running from project folder. Banner now pushes toolbar down instead of covering buttons.",
                                        "mediaType":  "image",
                                        "buttons":  [
 
                                                    ]
                                    }
-                               ]
+                               ],
+                     "title":  "What\u0027s New in v2.0.2"
                  },
+    "type":  "major",
     "about":  {
-                  "portfolioUrl":  "https://abdulrezak.com",
-                  "welcomeText":  "Media Library 2.0 - Now with expanded file support!"
+                  "welcomeText":  "Media Library 2.0.2",
+                  "portfolioUrl":  "https://abdulrezak.com"
               },
-    "zipUrl":  "https://github.com/AbdulrezakHA/media-library-releases/releases/download/v2.0.1/MediaLibrary.zip"
+    "zipUrl":  "https://github.com/AbdulrezakHA/media-library-releases/releases/download/v2.0.2/MediaLibrary.zip",
+    "message":  "Media Library 2.0.2 - Bug Fixes",
+    "notes":  "Update banner no longer appears on dev copy. Banner pushes content down instead of covering buttons."
 }
