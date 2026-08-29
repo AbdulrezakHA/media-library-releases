@@ -1,25 +1,52 @@
 {
-    "version":  "2.0.2",
+    "version":  "2.1.0",
     "whatsNew":  {
                      "pages":  [
                                    {
                                        "media":  "",
-                                       "title":  "Bug Fixes",
-                                       "description":  "Update banner no longer appears when running from project folder. Banner now pushes toolbar down instead of covering buttons.",
+                                       "title":  "My Clips",
+                                       "description":  "Save a tweaked clip/layer with all its effects, speed, and transform settings. Reuse it across any project - the plugin creates new instances from the same master file, no duplicates.",
+                                       "mediaType":  "image",
+                                       "buttons":  [
+
+                                                   ]
+                                   },
+                                   {
+                                       "media":  "",
+                                       "title":  "How to Save",
+                                       "description":  "Select a clip/layer in the timeline, click \u0027Save Selected\u0027, enter a name. Your clip appears under \u0027My Clips\u0027 in the sidebar with a CLIP badge showing effect count.",
+                                       "mediaType":  "image",
+                                       "buttons":  [
+
+                                                   ]
+                                   },
+                                   {
+                                       "media":  "",
+                                       "title":  "How to Reuse",
+                                       "description":  "Double-click any My Clips item to add it to your active sequence/comp. Same source file, new instance with all your effects pre-applied.",
+                                       "mediaType":  "image",
+                                       "buttons":  [
+
+                                                   ]
+                                   },
+                                   {
+                                       "media":  "",
+                                       "title":  "14 3D Formats",
+                                       "description":  "New support for GLB, GLTF, STL, 3DS, DAE (Collada), PLY, ABC (Alembic), USD, USDA, USDC, USDZ alongside existing C4D, OBJ, FBX.",
                                        "mediaType":  "image",
                                        "buttons":  [
 
                                                    ]
                                    }
                                ],
-                     "title":  "What\u0027s New in v2.0.2"
+                     "title":  "What\u0027s New in v2.1.0"
                  },
     "type":  "major",
     "about":  {
-                  "welcomeText":  "Media Library 2.0.2",
+                  "welcomeText":  "Media Library 2.1.0 - My Clips",
                   "portfolioUrl":  "https://abdulrezak.com"
               },
-    "zipUrl":  "https://github.com/AbdulrezakHA/media-library-releases/releases/download/v2.0.2/MediaLibrary.zip",
-    "message":  "Media Library 2.0.2 - Bug Fixes",
-    "notes":  "Update banner no longer appears on dev copy. Banner pushes content down instead of covering buttons."
+    "zipUrl":  "https://github.com/AbdulrezakHA/media-library-releases/releases/download/v2.1.0/MediaLibrary.zip",
+    "message":  "Media Library v2.1.0 - My Clips!",
+    "notes":  "Save selected clips/layers with effects for reuse across projects without duplicating master files. Expanded 3D support (14 formats)."
 }
