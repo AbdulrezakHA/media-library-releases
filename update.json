@@ -1,25 +1,25 @@
 {
-    "version":  "2.1.1",
+    "version":  "2.1.2",
     "whatsNew":  {
                      "pages":  [
                                    {
                                        "media":  "",
-                                       "title":  "My Clips Improved",
-                                       "description":  "Save Selected button moved to sidebar footer. No more full name prompt - uses source file name with optional suffix. Audio clips save full clip with effects for preview. Other file types save as effects preset only (no file duplication).",
+                                       "title":  "Bug Fixes",
+                                       "description":  "Update banner now appears at the top of the main content area, not in the sidebar. Save Clip now works in Premiere/AE - added missing JSON support for ExtendScript.",
                                        "mediaType":  "image",
                                        "buttons":  [
 
                                                    ]
                                    }
                                ],
-                     "title":  "What\u0027s New in v2.1.1"
+                     "title":  "What\u0027s New in v2.1.2"
                  },
     "type":  "major",
     "about":  {
-                  "welcomeText":  "Media Library 2.1.1",
+                  "welcomeText":  "Media Library 2.1.2",
                   "portfolioUrl":  "https://abdulrezak.com"
               },
-    "zipUrl":  "https://github.com/AbdulrezakHA/media-library-releases/releases/download/v2.1.1/MediaLibrary.zip",
-    "message":  "Media Library v2.1.1 - My Clips Fixes",
-    "notes":  "Save Selected moved to sidebar footer. Uses source name + optional suffix. Audio = full clip with effects. Other types = effects preset only. Fixed ExtendScript date error."
+    "zipUrl":  "https://github.com/AbdulrezakHA/media-library-releases/releases/download/v2.1.2/MediaLibrary.zip",
+    "message":  "Media Library v2.1.2 - Critical Fixes",
+    "notes":  "Fixed update banner position. Added JSON polyfill for ExtendScript (fixes Save Clip error)."
 }
