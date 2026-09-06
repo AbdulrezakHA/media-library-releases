@@ -1,11 +1,11 @@
 {
-    "version":  "2.3.0",
+    "version":  "2.3.1",
     "whatsNew":  {
                      "pages":  [
                                    {
                                        "media":  "",
-                                       "title":  "Compact Grid",
-                                       "description":  "Items can now be as small as 50px — 10 size levels total. Fits many more items on small screens.",
+                                       "title":  "Resizable Sidebar",
+                                       "description":  "Drag the right edge of the sidebar to make it wider or narrower (120px-500px). Width is saved.",
                                        "mediaType":  "image",
                                        "buttons":  [
 
@@ -13,31 +13,22 @@
                                    },
                                    {
                                        "media":  "",
-                                       "title":  "Filter Dropdown",
-                                       "description":  "Individual filter buttons replaced with a single \u0027Filters\u0027 dropdown. Multi-select checkboxes. Saves toolbar space.",
-                                       "mediaType":  "image",
-                                       "buttons":  [
-
-                                                   ]
-                                   },
-                                   {
-                                       "media":  "",
-                                       "title":  "Color Labels",
-                                       "description":  "Right-click any item to assign a color label (red, orange, yellow, green, blue, purple, teal, pink, white). Colors persist and work across Premiere and After Effects.",
+                                       "title":  "Collapse / Expand",
+                                       "description":  "Click ☰ to collapse sidebar completely. When collapsed, a ☰ button appears on the left edge of the content area — click it to bring the sidebar back. Works even on very small screens.",
                                        "mediaType":  "image",
                                        "buttons":  [
 
                                                    ]
                                    }
                                ],
-                     "title":  "What\u0027s New in v2.3.0"
+                     "title":  "What\u0027s New in v2.3.1"
                  },
     "type":  "major",
     "about":  {
-                  "welcomeText":  "Media Library 2.3.0",
+                  "welcomeText":  "Media Library 2.3.1",
                   "portfolioUrl":  "https://abdulrezak.com"
               },
-    "zipUrl":  "https://github.com/AbdulrezakHA/media-library-releases/releases/download/v2.3.0/MediaLibrary.zip",
-    "message":  "Media Library v2.3.0 - Compact UI",
-    "notes":  "50px minimum item size. Filter dropdown saves space. Right-click color labels for items."
+    "zipUrl":  "https://github.com/AbdulrezakHA/media-library-releases/releases/download/v2.3.1/MediaLibrary.zip",
+    "message":  "Media Library v2.3.1 - Resizable Sidebar",
+    "notes":  "Drag sidebar edge to resize. Collapse button hides sidebar. Expand overlay button when collapsed."
 }
