@@ -1,11 +1,11 @@
 {
-    "version":  "2.2.0",
+    "version":  "2.3.0",
     "whatsNew":  {
                      "pages":  [
                                    {
                                        "media":  "",
-                                       "title":  "Responsive UI",
-                                       "description":  "Plugin now adapts to different screen sizes. Filter buttons wrap on narrow panels. Sidebar can be collapsed with the menu button.",
+                                       "title":  "Compact Grid",
+                                       "description":  "Items can now be as small as 50px — 10 size levels total. Fits many more items on small screens.",
                                        "mediaType":  "image",
                                        "buttons":  [
 
@@ -13,22 +13,31 @@
                                    },
                                    {
                                        "media":  "",
-                                       "title":  "Item Size Controls",
-                                       "description":  "Use the +/- buttons in the toolbar to make grid items smaller or bigger. Small screens: shrink items to see more at once. Big screens: enlarge for better previews. Size is saved.",
+                                       "title":  "Filter Dropdown",
+                                       "description":  "Individual filter buttons replaced with a single \u0027Filters\u0027 dropdown. Multi-select checkboxes. Saves toolbar space.",
+                                       "mediaType":  "image",
+                                       "buttons":  [
+
+                                                   ]
+                                   },
+                                   {
+                                       "media":  "",
+                                       "title":  "Color Labels",
+                                       "description":  "Right-click any item to assign a color label (red, orange, yellow, green, blue, purple, teal, pink, white). Colors persist and work across Premiere and After Effects.",
                                        "mediaType":  "image",
                                        "buttons":  [
 
                                                    ]
                                    }
                                ],
-                     "title":  "What\u0027s New in v2.2.0"
+                     "title":  "What\u0027s New in v2.3.0"
                  },
     "type":  "major",
     "about":  {
-                  "welcomeText":  "Media Library 2.2.0",
+                  "welcomeText":  "Media Library 2.3.0",
                   "portfolioUrl":  "https://abdulrezak.com"
               },
-    "zipUrl":  "https://github.com/AbdulrezakHA/media-library-releases/releases/download/v2.2.0/MediaLibrary.zip",
-    "message":  "Media Library v2.2.0 - Responsive UI",
-    "notes":  "Responsive layout for single-screen use. Item size controls (+/- buttons). Sidebar toggle. Filter buttons wrap on narrow panels."
+    "zipUrl":  "https://github.com/AbdulrezakHA/media-library-releases/releases/download/v2.3.0/MediaLibrary.zip",
+    "message":  "Media Library v2.3.0 - Compact UI",
+    "notes":  "50px minimum item size. Filter dropdown saves space. Right-click color labels for items."
 }
