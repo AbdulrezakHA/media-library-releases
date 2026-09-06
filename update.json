@@ -1,25 +1,34 @@
 {
-    "version":  "2.1.2",
+    "version":  "2.2.0",
     "whatsNew":  {
                      "pages":  [
                                    {
                                        "media":  "",
-                                       "title":  "Bug Fixes",
-                                       "description":  "Update banner now appears at the top of the main content area, not in the sidebar. Save Clip now works in Premiere/AE - added missing JSON support for ExtendScript.",
+                                       "title":  "Responsive UI",
+                                       "description":  "Plugin now adapts to different screen sizes. Filter buttons wrap on narrow panels. Sidebar can be collapsed with the menu button.",
+                                       "mediaType":  "image",
+                                       "buttons":  [
+
+                                                   ]
+                                   },
+                                   {
+                                       "media":  "",
+                                       "title":  "Item Size Controls",
+                                       "description":  "Use the +/- buttons in the toolbar to make grid items smaller or bigger. Small screens: shrink items to see more at once. Big screens: enlarge for better previews. Size is saved.",
                                        "mediaType":  "image",
                                        "buttons":  [
 
                                                    ]
                                    }
                                ],
-                     "title":  "What\u0027s New in v2.1.2"
+                     "title":  "What\u0027s New in v2.2.0"
                  },
     "type":  "major",
     "about":  {
-                  "welcomeText":  "Media Library 2.1.2",
+                  "welcomeText":  "Media Library 2.2.0",
                   "portfolioUrl":  "https://abdulrezak.com"
               },
-    "zipUrl":  "https://github.com/AbdulrezakHA/media-library-releases/releases/download/v2.1.2/MediaLibrary.zip",
-    "message":  "Media Library v2.1.2 - Critical Fixes",
-    "notes":  "Fixed update banner position. Added JSON polyfill for ExtendScript (fixes Save Clip error)."
+    "zipUrl":  "https://github.com/AbdulrezakHA/media-library-releases/releases/download/v2.2.0/MediaLibrary.zip",
+    "message":  "Media Library v2.2.0 - Responsive UI",
+    "notes":  "Responsive layout for single-screen use. Item size controls (+/- buttons). Sidebar toggle. Filter buttons wrap on narrow panels."
 }
