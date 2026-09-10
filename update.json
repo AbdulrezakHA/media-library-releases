@@ -1,34 +1,42 @@
-{
-    "version":  "2.3.1",
+﻿{
+    "version":  "2.4.0",
+    "type":  "hot",
+    "message":  "Version 2.4.0 available!",
+    "notes":  [
+                  "In-Project Indicator: Green top bar on files in your project"
+              ],
+    "zipUrl":  "https://github.com/AbdulrezakHA/media-library-releases/releases/latest/download/MediaLibrary.zip",
+    "zxpUrl":  "https://github.com/AbdulrezakHA/media-library-releases/releases/latest/download/MediaLibrary.zxp",
     "whatsNew":  {
+                     "title":  "What\u0027s New in v2.4.0",
                      "pages":  [
                                    {
-                                       "media":  "",
-                                       "title":  "Resizable Sidebar",
-                                       "description":  "Drag the right edge of the sidebar to make it wider or narrower (120px-500px). Width is saved.",
+                                       "title":  "In-Project Indicator",
+                                       "description":  "Files that are already in your Premiere Pro or After Effects project now show a green top bar automatically. The indicator refreshes every 5 seconds so new imports are detected right away.",
+                                       "media":  null,
                                        "mediaType":  "image",
                                        "buttons":  [
 
                                                    ]
                                    },
                                    {
-                                       "media":  "",
-                                       "title":  "Collapse / Expand",
-                                       "description":  "Click ☰ to collapse sidebar completely. When collapsed, a ☰ button appears on the left edge of the content area — click it to bring the sidebar back. Works even on very small screens.",
+                                       "title":  "Relink All Files",
+                                       "description":  "Fix offline or missing media with one click. The plugin searches by file name, previous names, size, and modification date to find and relink your files automatically.",
+                                       "media":  null,
+                                       "mediaType":  "image",
+                                       "buttons":  [
+
+                                                   ]
+                                   },
+                                   {
+                                       "title":  "Smart Folder Operations",
+                                       "description":  "Moving folders now relinks all files inside them. Renaming files tracks their history so they can always be found. Everything stays connected in your project.",
+                                       "media":  null,
                                        "mediaType":  "image",
                                        "buttons":  [
 
                                                    ]
                                    }
-                               ],
-                     "title":  "What\u0027s New in v2.3.1"
-                 },
-    "type":  "major",
-    "about":  {
-                  "welcomeText":  "Media Library 2.3.1",
-                  "portfolioUrl":  "https://abdulrezak.com"
-              },
-    "zipUrl":  "https://github.com/AbdulrezakHA/media-library-releases/releases/download/v2.3.1/MediaLibrary.zip",
-    "message":  "Media Library v2.3.1 - Resizable Sidebar",
-    "notes":  "Drag sidebar edge to resize. Collapse button hides sidebar. Expand overlay button when collapsed."
+                               ]
+                 }
 }
