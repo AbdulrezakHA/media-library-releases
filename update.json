@@ -1,6 +1,6 @@
 ﻿{
   "version": "2.4.1",
-  "type": "hot",
+  "type": "zxp",
   "message": "Version 2.4.1 available!",
   "notes": ["Test Update"],
   "zxpUrl": "https://github.com/AbdulrezakHA/media-library-releases/releases/latest/download/MediaLibrary.zxp",
