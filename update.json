@@ -3,7 +3,7 @@
     "type":  "hot",
     "message":  "Version 2.4.0 available!",
     "notes":  [
-                  "In-Project Indicator: Green top bar on files in your project"
+                  "In-Project Indicator"
               ],
     "zipUrl":  "https://github.com/AbdulrezakHA/media-library-releases/releases/latest/download/MediaLibrary.zip",
     "zxpUrl":  "https://github.com/AbdulrezakHA/media-library-releases/releases/latest/download/MediaLibrary.zxp",
