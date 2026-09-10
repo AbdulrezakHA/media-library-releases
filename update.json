@@ -1,15 +1,16 @@
 ﻿{
   "version": "2.4.3",
-  "type": "zxp",
+  "type": "hot",
   "message": "Version 2.4.3 available!",
   "notes": ["Test Update"],
+  "zipUrl": "https://github.com/AbdulrezakHA/media-library-releases/releases/latest/download/MediaLibrary.zip",
   "zxpUrl": "https://github.com/AbdulrezakHA/media-library-releases/releases/latest/download/MediaLibrary.zxp",
   "whatsNew": {
-    "title": "What's New in v2.4.1",
+    "title": "What's New in v2.4.3",
     "pages": [
       {
         "title": "Update System Test",
-        "description": "This is a test of the update notification system. If you see this, the update system is working correctly!",
+        "description": "This is a test of the auto-update system. If you see this, updates are working correctly!",
         "media": null,
         "mediaType": "image",
         "buttons": []
