@@ -1,42 +1,19 @@
 ﻿{
-    "version":  "2.4.0",
-    "type":  "hot",
-    "message":  "Version 2.4.0 available!",
-    "notes":  [
-                  "In-Project Indicator"
-              ],
-    "zipUrl":  "https://github.com/AbdulrezakHA/media-library-releases/releases/latest/download/MediaLibrary.zip",
-    "zxpUrl":  "https://github.com/AbdulrezakHA/media-library-releases/releases/latest/download/MediaLibrary.zxp",
-    "whatsNew":  {
-                     "title":  "What\u0027s New in v2.4.0",
-                     "pages":  [
-                                   {
-                                       "title":  "In-Project Indicator",
-                                       "description":  "Files that are already in your Premiere Pro or After Effects project now show a green top bar automatically. The indicator refreshes every 5 seconds so new imports are detected right away.",
-                                       "media":  null,
-                                       "mediaType":  "image",
-                                       "buttons":  [
-
-                                                   ]
-                                   },
-                                   {
-                                       "title":  "Relink All Files",
-                                       "description":  "Fix offline or missing media with one click. The plugin searches by file name, previous names, size, and modification date to find and relink your files automatically.",
-                                       "media":  null,
-                                       "mediaType":  "image",
-                                       "buttons":  [
-
-                                                   ]
-                                   },
-                                   {
-                                       "title":  "Smart Folder Operations",
-                                       "description":  "Moving folders now relinks all files inside them. Renaming files tracks their history so they can always be found. Everything stays connected in your project.",
-                                       "media":  null,
-                                       "mediaType":  "image",
-                                       "buttons":  [
-
-                                                   ]
-                                   }
-                               ]
-                 }
+  "version": "2.4.1",
+  "type": "hot",
+  "message": "Version 2.4.1 available!",
+  "notes": ["Test Update"],
+  "zxpUrl": "https://github.com/AbdulrezakHA/media-library-releases/releases/latest/download/MediaLibrary.zxp",
+  "whatsNew": {
+    "title": "What's New in v2.4.1",
+    "pages": [
+      {
+        "title": "Update System Test",
+        "description": "This is a test of the update notification system. If you see this, the update system is working correctly!",
+        "media": null,
+        "mediaType": "image",
+        "buttons": []
+      }
+    ]
+  }
 }
