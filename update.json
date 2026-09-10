@@ -1,7 +1,7 @@
 ﻿{
-  "version": "2.4.1",
+  "version": "2.4.2",
   "type": "zxp",
-  "message": "Version 2.4.1 available!",
+  "message": "Version 2.4.2 available!",
   "notes": ["Test Update"],
   "zxpUrl": "https://github.com/AbdulrezakHA/media-library-releases/releases/latest/download/MediaLibrary.zxp",
   "whatsNew": {
