@@ -1,6 +1,8 @@
 ﻿{
   "version": "2.4.5",
   "type": "hot",
+  "disabled": false,
+  "testUntil": "2026-12-31",
   "message": "Version 2.4.3 available!",
   "notes": ["Test Update"],
   "zipUrl": "https://github.com/AbdulrezakHA/media-library-releases/releases/latest/download/MediaLibrary.zip",
