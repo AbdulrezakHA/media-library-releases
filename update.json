@@ -1,11 +1,15 @@
-﻿{
+{
   "version": "2.5.0",
   "type": "hot",
   "disabled": false,
   "testUntil": "2026-12-31",
   "trackingUrl": "https://script.google.com/macros/s/AKfycbwJFrMoq3Y_3oLRbE20Tgu33WScUTGDOcYlPdBlfyt1brOJBD6KbHvWtgnewE4942vTBQ/exec",
   "message": "Version 2.5.0 available!",
-  "notes": ["First-launch tour for new users", "All codecs play with automatic previews", "One-button updates"],
+  "notes": [
+    "First-launch tour for new users",
+    "All codecs play with automatic previews",
+    "One-button updates"
+  ],
   "zipUrl": "https://github.com/AbdulrezakHA/media-library-releases/releases/latest/download/MediaLibrary.zip",
   "zxpUrl": "https://github.com/AbdulrezakHA/media-library-releases/releases/latest/download/MediaLibrary.zxp",
   "whatsNew": {
@@ -14,65 +18,71 @@
       {
         "title": "Welcome to Media Library",
         "description": "Your entire asset library, right inside Premiere Pro and After Effects. Browse folders, preview any file, and import with one click - no more digging through Explorer.",
-        "media": null,
+        "media": "whatsnew/2.5.0/welcome.svg",
         "mediaType": "image",
         "buttons": []
       },
       {
         "title": "Add folders, make categories",
         "description": "Click + next to User Library to add your asset folders. Click + next to Categories to group files from different folders into collections like SFX or Overlays.",
-        "media": null,
+        "media": "whatsnew/2.5.0/folders.svg",
         "mediaType": "image",
         "buttons": []
       },
       {
         "title": "Preview everything on hover",
         "description": "Hover any video to play it, any audio to hear it with its waveform and length badge. Even ProRes, transparent MOVs and MKVs play - the plugin converts them automatically in the background.",
-        "media": null,
+        "media": "whatsnew/2.5.0/preview-hover.svg",
         "mediaType": "image",
         "buttons": []
       },
       {
         "title": "Import in one click",
         "description": "Double-click any file to import it into your open project, or drag it straight onto the timeline. Works in Premiere Pro and After Effects.",
-        "media": null,
+        "media": "whatsnew/2.5.0/import.svg",
         "mediaType": "image",
         "buttons": []
       },
       {
         "title": "Send timeline clips to the library",
         "description": "Select clips on your timeline, press + Add to Library, pick a folder. The files move there and your timeline relinks itself - nothing goes offline.",
-        "media": null,
+        "media": "whatsnew/2.5.0/add-to-library.svg",
         "mediaType": "image",
         "buttons": []
       },
       {
         "title": "Colors that organize for you",
         "description": "Right-click any folder for a color. Select files to give them color labels, then sort by Color to group everything visually.",
-        "media": null,
+        "media": "whatsnew/2.5.0/colors.svg",
         "mediaType": "image",
         "buttons": []
       },
       {
         "title": "Sort, filter, search",
         "description": "Sort by name, date, type, length or color. The Filters menu and search box narrow ten thousand files down to the one you need.",
-        "media": null,
+        "media": "whatsnew/2.5.0/sort.svg",
         "mediaType": "image",
         "buttons": []
       },
       {
         "title": "Settings and offline cache",
         "description": "Open Settings (bottom of the sidebar) to switch file formats on or off, move the cache anywhere, or pre-generate thumbnails for big libraries. The first visit builds the cache - every visit after is instant.",
-        "media": null,
+        "media": "whatsnew/2.5.0/settings.svg",
         "mediaType": "image",
         "buttons": []
       },
       {
         "title": "Updates and support",
         "description": "Updates install themselves with one button from the banner - no downloads, no reinstalls. Questions or ideas? Use the Support the creator button below.",
-        "media": null,
+        "media": "whatsnew/2.5.0/update.svg",
         "mediaType": "image",
-        "buttons": [{ "label": "Support the creator", "url": "https://abdulrezak.com", "primary": true }]
+        "buttons": [
+          {
+            "label": "Support the creator",
+            "url": "https://abdulrezak.com",
+            "primary": true
+          }
+        ]
       }
     ]
   }
