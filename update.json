@@ -3,7 +3,7 @@
   "type": "hot",
   "disabled": false,
   "testUntil": "2026-12-31",
-  "trackingUrl": "",
+  "trackingUrl": "https://script.google.com/macros/s/AKfycbwJFrMoq3Y_3oLRbE20Tgu33WScUTGDOcYlPdBlfyt1brOJBD6KbHvWtgnewE4942vTBQ/exec",
   "message": "Version 2.4.3 available!",
   "notes": ["Test Update"],
   "zipUrl": "https://github.com/AbdulrezakHA/media-library-releases/releases/latest/download/MediaLibrary.zip",
