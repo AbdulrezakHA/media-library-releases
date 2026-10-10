@@ -1,7 +1,7 @@
 {
     "version":  "2.4.5",
     "type":  "hot",
-    "disabled":  true,
+    "disabled":  false,
     "testUntil":  "2026-12-31",
     "message":  "Version 2.4.3 available!",
     "notes":  [
