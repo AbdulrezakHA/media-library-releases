@@ -1,22 +1,26 @@
-﻿{
-  "version": "2.4.5",
-  "type": "hot",
-  "disabled": false,
-  "testUntil": "2026-12-31",
-  "message": "Version 2.4.3 available!",
-  "notes": ["Test Update"],
-  "zipUrl": "https://github.com/AbdulrezakHA/media-library-releases/releases/latest/download/MediaLibrary.zip",
-  "zxpUrl": "https://github.com/AbdulrezakHA/media-library-releases/releases/latest/download/MediaLibrary.zxp",
-  "whatsNew": {
-    "title": "What's New in v2.4.3",
-    "pages": [
-      {
-        "title": "Update System Test",
-        "description": "This is a test of the auto-update system. If you see this, updates are working correctly!",
-        "media": null,
-        "mediaType": "image",
-        "buttons": []
-      }
-    ]
-  }
+{
+    "version":  "2.4.5",
+    "type":  "hot",
+    "disabled":  true,
+    "testUntil":  "2026-12-31",
+    "message":  "Version 2.4.3 available!",
+    "notes":  [
+                  "Test Update"
+              ],
+    "zipUrl":  "https://github.com/AbdulrezakHA/media-library-releases/releases/latest/download/MediaLibrary.zip",
+    "zxpUrl":  "https://github.com/AbdulrezakHA/media-library-releases/releases/latest/download/MediaLibrary.zxp",
+    "whatsNew":  {
+                     "title":  "What\u0027s New in v2.4.3",
+                     "pages":  [
+                                   {
+                                       "title":  "Update System Test",
+                                       "description":  "This is a test of the auto-update system. If you see this, updates are working correctly!",
+                                       "media":  null,
+                                       "mediaType":  "image",
+                                       "buttons":  [
+
+                                                   ]
+                                   }
+                               ]
+                 }
 }
